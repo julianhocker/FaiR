@@ -2,7 +2,8 @@ Package: faiR
 Type: Package
 Title: Fair Workshop
 Version: 0.1.0
-Author: person("Julian", "Hocker", role=c("aut","cre"))
+Date: 2018-07-12
+Authors@R: person("Julian", "Hocker", email="julian.hocker@dipf.de", role=c("aut","cre"), comment = c(ORCID = "0000-0000-0000-0000"))
 Description: personal package
 License: MIT + file LICENSE
 Encoding: UTF-8
