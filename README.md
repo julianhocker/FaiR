@@ -1,5 +1,7 @@
 # faiR
 
+[![Travis build status](https://travis-ci.org/julianhocker/FaiR.svg?branch=master)](https://travis-ci.org/julianhocker/FaiR)
+
 The goal of faiR is to ...
 
 ## Installation
@@ -17,4 +19,5 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 ## basic example code
 ```
+
 
