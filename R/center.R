@@ -19,7 +19,7 @@
 #'
 #' @examples
 #' center(c(1,2,3),0) -> -1 0 1
-center <- function(data, desired) {
+center <- function(data, desired = 0) {
   new_dat <- (data - mean(data)) + desired
   return(new_dat)
 }
