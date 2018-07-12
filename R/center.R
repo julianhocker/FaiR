@@ -18,7 +18,7 @@
 #' @return this function returns a new vector containing the original _data_ centered around the _desired_ values
 #'
 #' @examples
-#' center(c(1,2,3),0) -> -1 0 1
+#' center(c(1,2,3),0) => c(-1 0 1)
 center <- function(data, desired = 0) {
   new_dat <- (data - mean(data)) + desired
   return(new_dat)
