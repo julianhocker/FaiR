@@ -13,7 +13,7 @@
 #' Centering Datasets
 #'
 #' @param data the numeric vector to be centered
-#' @param desired numeric mid-point value around which the data will be centered
+#' @param desired numeric mid-point value around which the data will be centered. Default = 0
 #'
 #' @return this function returns a new vector containing the original _data_ centered around the _desired_ values
 #'
